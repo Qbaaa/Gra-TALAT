@@ -1,0 +1,27 @@
+czlowiek Kuba 0
+komputer Komputer1 0
+komputer Komputer2 0
+1
+0 BDT BSK BMS BDS 
+0 0 0 0 0 
+0 0 BMT 0 0 
+0 SMS 0 SSS 0 
+SMK SSK 0 0 SDT 
+
+BST BMK BDK BSS 0 
+0 0 0 0 0 
+0 0 0 0 0 
+CMK 0 CSS 0 0 
+0 CMT 0 0 CMS 
+
+CDK CSK CST CDT CDS 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+SDS 0 SST SMT SDK 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0
